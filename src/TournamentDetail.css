@@ -1,0 +1,16 @@
+.tournament-details {
+  border: 1px solid #ccc;
+  padding: 15px;
+  margin: 10px 0;
+  background-color: #f8f8f8;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.tournament-details h2 {
+  margin-top: 0;
+  color: yellow;
+}
+
+.tournament-details p {
+  margin: 5px 0;
+}
